@@ -15,3 +15,11 @@ Skills
 - Security
 - DB & Data
 - Web
+
+Build with:
+- HTML
+- CSS
+- Javascript
+- PHP
+- SQL with PDO
+- Ajax
