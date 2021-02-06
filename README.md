@@ -26,3 +26,10 @@ Build with:
 - PHP
 - SQL with PDO
 - Ajax
+
+
+![login](screenshots/login.png)
+
+![ightmode](screenshots/snaplight.png)
+
+![darkmode](screenshots/snapdark.png)
