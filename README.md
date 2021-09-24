@@ -34,22 +34,27 @@ If you want to try this app, first you have to download bitnami MAMP local serve
 In the root of the repository run the command 'php config/setup.php' so it creates the database for the app. It adds couple fake users aswell so the gallery isn't empty.
 Now you can start using the app. Use Chrome or Firefox, the url looks something like this 'http://127.0.0.1:8888/camagru/index.php'.
 
-Login page
+Login page (light mode and big screen)
 ![login](screenshots/login.png)
 
-Register
+Register (dark mode and narrow screen)
 ![register](screenshots/register.png)
-
-Editing page to take and upload photos
-![ightmode](screenshots/snaplight.png)
-
-![darkmode](screenshots/snapdark.png)
-
-Gallery showing all the images with pagination
-![gallery](screenshots/gallery.png)
 
 Your own profile
 ![profile](screenshots/profile.png)
 
 Account editing
-![edit profile](screenshots/edit.png)
+![edit profile](screenshots/editing.png)
+
+Editing page to take and upload photos
+![ightmode](screenshots/snap.png)
+
+Gallery showing all the images with pagination
+![gallery](screenshots/gallery.png)
+![gallery](screenshots/gallerymobile.png)
+![gallery](screenshots/pagination.png)
+![gallery](screenshots/gallerydark.png)
+
+Deleting photo
+![gallery](screenshots/delete.png)
+
