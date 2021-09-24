@@ -32,7 +32,7 @@ Build with:
 
 If you want to try this app, first you have to download bitnami MAMP local server environment(for macOS). Clone this repository to htdocs folder (mamp/apache2/htdocs/) and name it Camagru so the email links work correctly. Remember to configure mail settings correctly in php.ini mail sections. 
 In the root of the repository run the command 'php config/setup.php' so it creates the database for the app. It adds couple fake users aswell so the gallery isn't empty.
-Now you can start using the app.
+Now you can start using the app. Use Chrome or Firefox, the url looks something like this 'http://127.0.0.1:8888/camagru/index.php'.
 
 Login page
 ![login](screenshots/login.png)
