@@ -30,6 +30,14 @@ Build with:
 
 ![login](screenshots/login.png)
 
+![register](screenshots/register.png)
+
 ![ightmode](screenshots/snaplight.png)
 
 ![darkmode](screenshots/snapdark.png)
+
+![gallery](screenshots/gallery.png)
+
+![profile](screenshots/profile.png)
+
+![edit profile](screenshots/edit.png)
