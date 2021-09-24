@@ -37,19 +37,19 @@ Now you can start using the app. Use Chrome or Firefox, the url looks something 
 Login page (dark mode and narrow screen)
 ![login](screenshots/login.png)
 
-Register
+Register (dark mode and narrow screen)
 ![register](screenshots/register.png)
 
-Your own profile
+Your own profile (light mode and big screen)
 ![profile](screenshots/profile.png)
 
-Account editing
+Account editing (light mode and big screen)
 ![edit profile](screenshots/editing.png)
 
-Editing page to take and upload photos
+Editing page to take and upload photos (light mode and big screen)
 ![ightmode](screenshots/snap.png)
 
-Gallery showing all the images with pagination
+Gallery showing all the images with pagination (pictures with both modes and narrow and big screen)
 ![gallery](screenshots/gallery.png)
 ![gallery](screenshots/gallerymobile.png)
 ![gallery](screenshots/pagination.png)
